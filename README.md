@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+皆さんよろしくお願いいたします😊
 <!--
 **Kazuki-TKT/Kazuki-TKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
